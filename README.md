@@ -1,40 +1,37 @@
-# Lic. Alexis Pérez
-## Desarrollador Web
+# Lic. Alexis Pérez 
+__Desarrollador Web__ 🚀
+Enamorado del HomeWork, me gusta crear aplicaciones web rápidas y fáciles de usar, tratando siempre de aplicar "clean code".
 
-_Actualmente trabajando:_ como desarrollador Web utilizando Scriptcase (FrameWork de PHP). Me gusta crear aplicaciones web rápidas y fáciles  de usar, tratando siempre de aplicar "clean code"
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
+## Hoy trabajando con: 🔧
 ```
-Da un ejemplo
+*Scriptcase (FrameWork de PHP).
+*MySQL. 
+*Jira.
+*Slack.
+*GIT.
+*Bitbucket.
+*VsCode.
+*Metodologás Ágilaes.
 ```
+## Actualmente aprendiendo sobre: 🛠️
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
+Utilizando mayormente las plataformas Platzi y Youtube trato de nutrirme en conocimientos y horas de prácticas con las siguietes tecnologías:
 ```
-Da un ejemplo
+__Laravel__: Desarrollando proyectos de prueba para aplicar los conocimientos adquiridos y crear un portfolio de trabajos. Ando enamorado de este Framework.
+__Python__: Lenguaje muy versatil, multiplataforma y multifuncional, con una sintaxis fácil y sencilla pero muy poderosa. De apoco le voy tomando el gusto, en proceso de desarrollar un API-Rest.
+__FastAPI__: Para muchos desarrolladores es el framework de Python más rápido y además con generación autmática de documentación. Simplemente me gusta!
+__API REST__: El presente y futuro de la comunicación entre aplicaciones. El alfa y el omega del desarrollo de servicios de aplicaciones.
+__S.O.L.I.D.__: Serie de principios y buenas prácticas para el desarrollo de software, investigando bastante como ir aplicandolo con Laravel y FastAPI
 ```
 
-_Y repite_
+### Buscando colaborar con: 📋
 
-```
-hasta finalizar
-```
+_Me interesaría colaborar con proyectos de Software Libre o algún proyecto tecnológico de ayuda comunitaria que busquen ayudar a hacer un mundo mejor_
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+### Buscando Ayuda con: 🔧
+
+_En la búsqueda constante de proyectos para desarrollar en Laravel/Vue.js como en FastAPI. Interesado en un Mentor para guiarme en este camino con Laravel y Vue.js_
 
 ## Ejecutando las pruebas ⚙️
 
