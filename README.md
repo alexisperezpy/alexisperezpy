@@ -1,5 +1,5 @@
-# Lic. Alexis Pérez 
-## __Desarrollador Web__ 🚀
+# Lic. Alexis Pérez 🚀
+## __Desarrollador Web__ :computer:
 Enamorado del HomeWork, me gusta crear aplicaciones web rápidas y fáciles de usar, tratando siempre de aplicar "clean code".
 
 ## Hoy trabajando con: 🛠️
@@ -33,7 +33,7 @@ __S.O.L.I.D.__: Serie de principios y buenas prácticas para el desarrollo de so
 _Me interesaría colaborar con proyectos de Software Libre o algún proyecto tecnológico de ayuda comunitaria que busquen ayudar a hacer un mundo mejor_
 
 
-## Buscando Ayuda: :information_desk_person:
+## Buscando Ayuda: :mag_right: :information_desk_person:
 
 _En la búsqueda constante de proyectos para desarrollar en Laravel/Vue.js como en FastAPI. Interesado en un Mentor para guiarme en este camino con Laravel y Vue.js_
 
