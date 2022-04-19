@@ -38,6 +38,6 @@ _Me interesaría colaborar con proyectos de Software Libre o algún proyecto tec
 _En la búsqueda constante de proyectos para desarrollar en Laravel/Vue.js como en FastAPI. Interesado en un Mentor para guiarme en este camino con Laravel y Vue.js_
 
 
-## Despliegue 📦
+
 
 
