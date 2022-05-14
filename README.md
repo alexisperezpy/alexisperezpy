@@ -1,6 +1,6 @@
 # Lic. Alexis Pérez 🚀
 ## __Desarrollador Web__ :computer:
-Enamorado del HomeWork, me gusta crear aplicaciones web y API's rápidas y fáciles de usar, tratando siempre de aplicar "clean code". Aplicando técnicas como Pomodoro y 90-90-1 para administración del tiempo de forma a maximizar la productividad trabajado en remoto. 
+Enamorado del HomeWork, me gusta crear aplicaciones web y API's rápidas y fáciles de usar, tratando siempre de aplicar "clean code". Aplico en mi día a día técnicas de administración del tiempo (Pomodoro y 90-90-1) con el objetivo de maximizar la productividad trabajado en remoto. 
 
 ## Hoy trabajando con: 🛠️
 
