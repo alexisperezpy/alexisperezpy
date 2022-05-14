@@ -4,7 +4,7 @@ Enamorado del HomeWork, me gusta crear aplicaciones web y API's rápidas y fáci
 
 ## Hoy trabajando con: 🛠️
 
-* Laravel. :laravel:
+* Laravel.
 * Scriptcase.
 * MySQL. 
 * Jira.
