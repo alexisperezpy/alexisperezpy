@@ -1,10 +1,11 @@
 # Lic. Alexis Pérez 🚀
 ## __Desarrollador Web__ :computer:
-Enamorado del HomeWork, me gusta crear aplicaciones web rápidas y fáciles de usar, tratando siempre de aplicar "clean code".
+Enamorado del HomeWork, me gusta crear aplicaciones web y API's rápidas y fáciles de usar, tratando siempre de aplicar "clean code". Aplicando técnicas como Pomodoro y 90-90-1 para administración del tiempo de forma a maximizar la productividad trabajado en remoto. 
 
 ## Hoy trabajando con: 🛠️
 
-* Scriptcase (FrameWork de PHP).
+* Laravel. :laravel:
+* Scriptcase.
 * MySQL. 
 * Jira.
 * Slack.
@@ -17,7 +18,7 @@ Enamorado del HomeWork, me gusta crear aplicaciones web rápidas y fáciles de u
 
 Utilizando mayormente las plataformas Platzi y Youtube trato de nutrirme en conocimientos y horas de prácticas con las siguietes tecnologías:
 
-__Laravel__: Desarrollando proyectos de prueba para aplicar los conocimientos adquiridos y crear un portfolio de trabajos. Ando enamorado de este Framework.
+__Laravel__: Desarrollando proyectos varios para crear un portfolio de trabajos (enamorado de este Framework).
 
 __Python__: Lenguaje muy versatil, multiplataforma y multifuncional, con una sintaxis fácil y sencilla pero muy poderosa. De apoco le voy tomando el gusto, en proceso de desarrollar un API-Rest.
 
@@ -35,7 +36,7 @@ _Me interesaría colaborar con proyectos de Software Libre o algún proyecto tec
 
 ## Buscando Ayuda: :mag_right:
 
-_En la búsqueda constante de proyectos para desarrollar en Laravel/Vue.js como en FastAPI. Interesado en un Mentor para guiarme en este camino con Laravel y Vue.js_
+_En la búsqueda constante de proyectos para desarrollarlos con Laravel/Vue.js o con FastAPI. Interesado en un Mentor para guiarme en este camino ninja!!_
 
 
 
