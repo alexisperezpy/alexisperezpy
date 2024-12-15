@@ -1,9 +1,9 @@
 # Lic. Alexis Pérez 🚀🔝
-## __Desarrollador Web__ :computer: ![image](https://github.com/user-attachments/assets/319f8dea-c7e8-4963-a4ee-2df700579a95)
+## __Desarrollador Web__ :computer: 👨🏻‍💻
 
 Remote-Work, me gusta crear aplicaciones web y API-Rest que sean prácticas, rápidas y fáciles de usar. 
 
-## __Analys Support Scriptcase__ 🧑🏼‍💻
+## __Analys Support Scriptcase__ 👨🏻‍💻
 
 ## Hoy trabajando con: 🛠️
 
