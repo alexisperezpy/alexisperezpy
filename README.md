@@ -3,7 +3,8 @@
 
 Remote-Work, me gusta crear aplicaciones web y API-Rest que sean prácticas, rápidas y fáciles de usar. 
 
-## __Analys Support Scriptcase__ 👨🏻‍💻
+## __Analista de Soporte Scriptcase__ 👨🏻‍💻
+Parte del Team de Soporte Técnico en Español para la herramienta Scriptcase (Netmake inc)
 
 ## Hoy trabajando con: 🛠️
 
