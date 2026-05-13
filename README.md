@@ -8,25 +8,16 @@ Parte del Team de Soporte Técnico en Español para la herramienta Scriptcase (N
 
 ## Hoy trabajando con: 🛠️
 
-* Scriptcase
+* Scriptcase 9.13
+* CodeIgniter 4
 * PosgreSQL
-* MySQL
+* MySQL | MariaDB
 * Apache
 * Jira
 * Slack
 * GIT. :octocat:
 * VsCode.
 * Metodologís Ágiles.
-
-## Actualmente aprendiendo sobre: :mortar_board:
-
-__Python__: Lenguaje muy versatil, multiplataforma y multifuncional, con una sintaxis fácil y sencilla pero muy poderosa. De apoco le voy tomando el gusto, en proceso de desarrollar un API-Rest.
-
-__FastAPI__: Para muchos desarrolladores es el framework de Python más rápido y además con generación autmática de documentación. Simplemente me gusta!
-
-__API REST__: El presente y futuro de la comunicación entre aplicaciones. El alfa y el omega del desarrollo de servicios de aplicaciones.
-
-__S.O.L.I.D.__: Serie de principios y buenas prácticas para el desarrollo de software, investigando bastante como ir aplicandolo con Laravel y FastAPI
 
 
 
